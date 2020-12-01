@@ -1,0 +1,9 @@
+Building Doacoin
+
+See doc/readme-qt.rst for instructions on building Doacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Doacoin.
+
+See doc/build-*.txt for instructions on building doacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Doacoin.
